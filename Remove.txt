@@ -1,3 +1,0 @@
-Remove file from Git
-
-added one more line
